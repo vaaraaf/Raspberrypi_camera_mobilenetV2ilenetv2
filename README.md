@@ -1,1 +1,2 @@
 # Raspberrypi_camera_mobilenetV2ilenetv2
+In this project, a Raspberry Pi is used to run Python code for executing a MobileNetV2 model trained by PyTorch. The model is deployed using transfer learning. The Raspberry Pi camera is controlled through the Picamera2 library. Every object in front of the camera is detected, and the object's name along with its probability is displayed in the IDE's console. PyCharm on Linux is used as the integrated development environment (IDE) for this project.
